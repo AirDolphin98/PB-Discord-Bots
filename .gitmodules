@@ -1,0 +1,6 @@
+[submodule "ChatGPT-Bots"]
+	path = ChatGPT-Bots
+	url = https://github.com/AirDolphin98/ChatGPT-Bots.git
+[submodule "aao-helper"]
+	path = aao-helper
+	url = https://github.com/AirDolphin98/aao-helper.git
